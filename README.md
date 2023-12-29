@@ -11,6 +11,8 @@ This code is for challange one, and this is the requirements for running the app
      "python -m uvicorn app:app --reload --port 8000"
    * For APP_PROXY run the command:
      "python -m uvicorn app:app --reload --port 5000"
+4.connect to http://localhost:5000 and have fun :-)
 
 
-and have fun :-)
+
+
